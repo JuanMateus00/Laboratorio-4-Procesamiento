@@ -84,5 +84,10 @@ Obteniendo como resultado:
 
 
 
+## PARTE B 
+
+<p align="center">
+<img src="diagrama2.png" width="400">
+
 
 
