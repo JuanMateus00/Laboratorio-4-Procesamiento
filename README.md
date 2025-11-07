@@ -17,7 +17,8 @@ La librería `NumPy` fue fundamental para el manejo de los arreglos numéricos c
 
 ## PARTE A
 
-
+<p align="center">
+<img src="diagrama1.png" width="400">
 
 <p align="center">
 <img src="señalemulada.png" width="400">
